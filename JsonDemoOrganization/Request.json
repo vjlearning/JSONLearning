@@ -1,0 +1,41 @@
+{
+    "Organization": {
+        "Name": "ABC Organization", 
+        "HeadOfficeCity": "Bengaluru, India", 
+        "EmployeeCount": 5, 
+        "Employees": [
+            {
+                "EmpName": "Abhishek", 
+                "EmpDesignation": "Team Lead", 
+                "EmpWorkingLocation": "IN"
+            }, 
+            {
+                "EmpName": "Rajesh", 
+                "EmpDesignation": "Performace Team Lead", 
+                "EmpWorkingLocation": "CA"
+            }, 
+            {
+                "EmpName": "Prashant", 
+                "EmpDesignation": "Project Manager", 
+                "EmpWorkingLocation": "US"
+            }, 
+            {
+                "EmpName": "Ashok", 
+                "EmpDesignation": "Database Administrator", 
+                "EmpWorkingLocation": "IN"
+            },
+            {
+                "EmpName": "Vijendra", 
+                "EmpDesignation": "Application Architect", 
+                "EmpWorkingLocation": "IN"
+            }
+        ], 
+        "LocationCodes": {
+            "IN": "India", 
+            "UK": "United Kingdom", 
+            "CA": "Canada", 
+            "US": "United States",
+            "FR" : "France"
+        }
+    }
+}
